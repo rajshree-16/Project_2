@@ -1,0 +1,19 @@
+.head_about_text{
+    margin-top: 0;
+    margin-left: 604px;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: var(--bs-heading-color);
+}
+.col1{
+    shape-margin: 4;
+}
+.col2{
+    shape-margin: 4;
+}
+.about_container{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+}

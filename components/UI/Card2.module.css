@@ -1,0 +1,11 @@
+.cards{ 
+    border-radius: 10px; 
+    border: 1px solid #ccc;
+    background-color: #fff; 
+    padding: 20px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2); 
+    min-width: 350px;
+}
+.card1 Image{
+    padding: auto;
+}

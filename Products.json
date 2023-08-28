@@ -1,0 +1,71 @@
+{
+
+    "existingProducts": [
+        {
+            "src":"/images/khadi_ladies.png",
+            "title":"Card Title",
+            "description":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "src":"/images/bedsheet.png",
+            "title":"Card Title",
+            "description":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "src":"/images/ladies_party.jpg",
+            "title":"Card Title",
+            "description":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "src":"/images/ladies_suit.jpg",
+            "title":"Card Title",
+            "description":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        }
+      ],
+      "proposedProducts": [
+        {
+            "src":"/images/Picture4.png",
+            "title":"Card Title",
+            "description":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "src":"/images/Picture5.png",
+            "title":"Card Title",
+            "description":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "src":"/images/party_ladies.jpg",
+            "title":"Card Title",
+            "description":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "src":"/images/modern.png",
+            "title":"Card Title",
+            "description":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        }
+      ],
+      "recycledProducts": [
+        {
+            "src":"/images/Picture5.png",
+            "title":"Card Title",
+            "description":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "src":"/images/Picture6.png",
+            "title":"Card Title",
+            "description":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "src":"/images/Picture4.png",
+            "title":"Card Title",
+            "description":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        },
+        {
+            "src":"/images/Picture3.png",
+            "title":"Card Title",
+            "description":"Some quick example text to build on the card title and make up the bulk of the card's content."
+        }
+      ]
+
+   
+    }

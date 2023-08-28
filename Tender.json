@@ -1,0 +1,28 @@
+[
+    {
+      "Id": "1",
+      "title": "Carpet",
+      "description": "Carpet out of Khadi fabric",
+      "start_date":"01/06/2023",
+      "close_date":"15/06/2023",
+      "src":"/public/images/dari.png"
+    },
+    {
+      "Id": "2",
+      "title": "Bag",
+      "description": "Handmade bag from khadi fabric",
+      "start_date":"16/06/2023",
+      "close_date":"30/06/2023",
+      "src":"/public/images/Picture6.png"
+    },
+    {
+        "Id": "3",
+        "title": "dress",
+        "description": "Embroidery Dresses of various designs from Khadi Fabric",
+        "start_date":"01/07/2023",
+        "close_date":"15/07/2023",
+        "src":"/public/images/ladies_party.jpg"
+    }
+
+  ]
+  
